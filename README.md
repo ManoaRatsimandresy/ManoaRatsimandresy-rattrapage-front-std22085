@@ -1,4 +1,4 @@
-#Rattrapage STD22085 FrontEnd
+#RATTRAPAGE - STD22085 - PROJET1 - FRONT
 
 this repositories contain a website which is the UI of "patrimoines"
 
